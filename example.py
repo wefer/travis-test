@@ -37,5 +37,3 @@ def obscure_function():
     Example of a function that is never tested.
     """
     do_something_strange()
-
-
